@@ -18,7 +18,7 @@ class Formulario extends React.Component {
                     />
                 </div>
                 <div>
-                    <label htmlFor="tempo">`
+                    <label htmlFor="tempo">
                         Tempo
                     </label>
                     <input
