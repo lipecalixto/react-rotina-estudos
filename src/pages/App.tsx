@@ -1,7 +1,7 @@
 import React from 'react';
-import Formulario from '../Formulario';
-import Lista from '../Lista';
 import style from './style.module.scss';
+import Formulario from '../components/Formulario';
+import Lista from '../components/Lista';
 
 function App() {
   return (
