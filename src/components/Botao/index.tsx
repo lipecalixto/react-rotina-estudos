@@ -1,9 +1,7 @@
 import React from 'react';
 import style from './Botao.module.scss';
+import { Props } from '../props';
 
-interface Props {
-  children: React.ReactNode;
-}
 class Botao extends React.Component<Props> {
   render() {
     return (
