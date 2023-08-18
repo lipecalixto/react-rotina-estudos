@@ -7,7 +7,3 @@ Objetivo do projeto: Criação de uma tela para rotina de estudos:
 ![telaReact](https://github.com/lipecalixto/react-first-project/assets/48100023/6e16aa7d-7dae-4bd0-b9ef-8403e60353a5)
 
 ### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
